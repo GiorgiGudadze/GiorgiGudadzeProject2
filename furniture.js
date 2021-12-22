@@ -1,8 +1,8 @@
-window.onbeforeunload = function () {
-    window.scrollTo(0, 0);
-  }
-$(function() {
 
+$(function() {
+    window.onbeforeunload = function () {
+        window.scrollTo(0, 0);
+      }
     AOS.init({
     	once:true
     });

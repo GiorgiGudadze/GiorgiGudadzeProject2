@@ -90,31 +90,31 @@ body {
 }
 
 .gallery-img1 {
-    background-image: url("gallery1.svg");
+    background-image: url("./images/gallery1.svg");
 }
 
 .gallery-img2 {
-    background-image: url("gallery2.svg");
+    background-image: url("./images/gallery2.svg");
 }
 
 .gallery-img3 {
-    background-image: url("gallery3.svg");
+    background-image: url("./images/gallery3.svg");
 }
 
 .gallery-img4 {
-    background-image: url("gallery4.svg");
+    background-image: url("./images/gallery4.svg");
 }
 
 .gallery-img5 {
-    background-image: url("gallery5.svg");
+    background-image: url("./images/gallery5.svg");
 }
 
 .gallery-img6 {
-    background-image: url("gallery6.svg");
+    background-image: url("./images/gallery6.svg");
 }
 
 .gallery-img7 {
-    background-image: url("gallery7.svg");
+    background-image: url("./images/gallery7.svg");
 }
 
 .gallery-top {
@@ -169,31 +169,31 @@ body {
 }
 
 .thumb1 {
-    background-image: url("gallery1.svg");
+    background-image: url("./images/gallery1.svg");
 }
 
 .thumb2 {
-    background-image: url("gallery2.svg");
+    background-image: url("./images/gallery2.svg");
 }
 
 .thumb3 {
-    background-image: url("gallery3.svg");
+    background-image: url("./images/gallery3.svg");
 }
 
 .thumb4 {
-    background-image: url("gallery4.svg");
+    background-image: url("./images/gallery4.svg");
 }
 
 .thumb5 {
-    background-image: url("gallery5.svg");
+    background-image: url("./images/gallery5.svg");
 }
 
 .thumb6 {
-    background-image: url("gallery6.svg");
+    background-image: url("./images/gallery6.svg");
 }
 
 .thumb7 {
-    background-image: url("gallery7.svg");
+    background-image: url("./images/gallery7.svg");
 }
 
 .swiper-button-next.swiper-button-white,
@@ -1185,7 +1185,7 @@ footer {
 }
 
 .plus {
-    background-image: url("plus.png");
+    background-image: url("./images/plus.png");
     background-repeat: no-repeat;
     width: 100%;
     height: 100%;
@@ -1422,7 +1422,7 @@ footer {
     height: 100%;
     transition: transform .6s .2s;
     transform: translateX(-100%);
-    background-image: url('plus.svg');
+    background-image: url('./images/plus.svg');
     background-position: center;
     background-repeat: no-repeat;
 }
@@ -1452,7 +1452,7 @@ footer {
 }
 
 .dotLi.active .plus-minus-wrap {
-    background-image: url('minus.svg');
+    background-image: url('./images/minus.svg');
     background-color: #fff;
 }
 
@@ -1645,7 +1645,7 @@ a i:hover {
     position: absolute;
     width: 100%;
     height: 100%;
-    background-image: url("slide1.svg");
+    background-image: url("./images/slide1.svg");
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -1656,7 +1656,7 @@ a i:hover {
     position: absolute;
     width: 100%;
     height: 100%;
-    background-image: url("slide2.svg");
+    background-image: url("./images/slide2.svg");
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -1667,7 +1667,7 @@ a i:hover {
     position: absolute;
     width: 100%;
     height: 100%;
-    background-image: url("slide3.svg");
+    background-image: url("./images/slide3.svg");
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -1678,7 +1678,7 @@ a i:hover {
     position: absolute;
     width: 100%;
     height: 100%;
-    background-image: url("slide4.svg");
+    background-image: url("./images/slide4.svg");
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
