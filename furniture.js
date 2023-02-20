@@ -3,6 +3,8 @@ $(function() {
     
     $(window).on('load', function () {
         $('.loaderCnt').fadeOut();
+        $('body').css('overflow-y', 'unset')
+        window.scrollTo(0,0)
     });
     
     AOS.init({
@@ -377,7 +379,7 @@ $(function() {
     })
 
     $('#nav-icon4').click(function() {
-        $('.yellow-line').toggleClass('open').css({ 'overflow': 'visible', 'width': '100vw' });
+        $('.yellow-line').toggleClass('open').css({'width': '100vw'});
         $(this).toggleClass('open');
         $('.nav-container').toggleClass('open');
         $('.language-container').toggleClass('open');
